@@ -24,7 +24,8 @@ and then commit the save game data.
 How To Play
 ===========
 
-Just put the "saves" directory from this repository in your KSP directory.
+Just put the "community" directory from this repository in your KSP "saves"
+directory. This can be done with a symlink.
 
 
 Rules
