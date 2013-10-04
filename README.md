@@ -50,3 +50,13 @@ Rules
 
 *	Commit rights will be revoked if you don't follow these rules.
 
+
+History
+=======
+*	October 3, 2013: Launched initial core module into orbit around kerbin. This
+	core module is very basic. It has a few solar panels, RCS, and 5 open docking
+	ports.
+
+	Each docking port has a removable adapter so that you can use either size
+	docking port.
+
