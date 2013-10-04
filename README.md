@@ -27,13 +27,17 @@ How To Play
 Just put the "community" directory from this repository in your KSP "saves"
 directory. This can be done with a symlink.
 
+You will also need to install [mechjeb](http://kerbalspaceport.com/21mechjeb209/).
+
+
 
 Rules
 =====
 
 *	Anyone is free to play this save game
 
-*	Do not use any non-standard part, with the exception of mech-jeb. If you do
+*	Do not use any non-standard part, with the exception of
+*	[mechjeb](http://kerbalspaceport.com/21mechjeb209/). If you do
 	then others will not be able to load the save game.
 
 *	We will not be resolving conflicts. If someone else commits while you are
