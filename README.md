@@ -68,3 +68,7 @@ History
 	upgraded core module which can house 5 kermans and has more solar power. The
 	new core is in a stable orbit at 100km.
 
+*	October 4, 2013: Docked a tug module. This small module is basically just
+	some docking ports and RCS thrusters. It can be detached and used to move
+	around other modules as needed.
+
