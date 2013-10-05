@@ -64,3 +64,7 @@ History
 	Each docking port has a removable adapter so that you can use either size
 	docking port.
 
+*	October 4, 2013: Started over. Destroyed original core, and launched an
+	upgraded core module which can house 5 kermans and has more solar power. The
+	new core is in a stable orbit at 100km.
+
