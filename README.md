@@ -72,3 +72,6 @@ History
 	some docking ports and RCS thrusters. It can be detached and used to move
 	around other modules as needed.
 
+*	October 5, 2013: Docked another crew module to give our brave kerbals a bit
+	more breathing room.
+
